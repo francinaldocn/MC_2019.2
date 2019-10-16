@@ -15,3 +15,7 @@ No diretório para os [dados do enade](./ENADE2017) temos as seguintes informaç
 ## Sobre análise exploratória de dados
 
 Vamos explorar os dados apenas usando estatística descritiva. No [diretório EDA](./EDA) mostramos exemplos de análises exploratórias usando pyhton. 
+
+## Preparando o ambiente para e execuçao dos scripts python
+
+Seguir o roteiro presente no arquivo [Ambiente.md](./Ambiente.md)
