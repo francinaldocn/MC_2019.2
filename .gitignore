@@ -1,2 +1,6 @@
 #virutal environment
 venv/
+virtualenv/
+CES2017/
+EDA/
+ENADE2017/

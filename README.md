@@ -1,11 +1,17 @@
 # MC_2019.2
 Repositorio do projeto da Disciplina Metodologia Científica - EDA
 
-## Questões Selecionadas
+## Questões
+### Sugeridas pela professora
 * A nota geral do aluno no ENADE é influenciada por características socioeconômicas do aluno (contidas no questionário do estudante)? (correlação e/ou regressão)
 * A nota geral do ENADE dos cursos é influenciada pelo custo aluno? Isto é, quanto mais caro o aluno, mais investimento é feito e maior é a nota? (correlação)
 * Considerando cursos que tiveram o mesmo conceito no ENADE, os alunos compartilham características sócio-econômicas em comum? (essa é a pergunta mais trabalhosa para responder e cada grupo deve identificar como fazer isso).
 * As características socioeconômicas dos alunos de cursos que obtiveram conceito máximo no ENADE (5) e conceito mínimo no ENADE (3) são diferentes?
+
+### Elaboradas por nós
+
+* As características socioeconômicas dos alunos de computação do nordeste e do restante do Brasil são diferentes?
+
 
 
 ## Sobre o projeto
